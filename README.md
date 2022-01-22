@@ -8,3 +8,7 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde github
 - otra actualización desde github
+
+![github logo](https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU) 
+
+*cursiva* _cursiva_
